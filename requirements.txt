@@ -8,3 +8,8 @@ transformers
 gtts
 bark
 pydub
+streamlit
+torch
+numpy
+soundfile
+gtts
