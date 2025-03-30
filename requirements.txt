@@ -1,0 +1,10 @@
+streamlit
+torch
+torchaudio
+librosa
+numpy
+soundfile
+transformers
+gtts
+bark
+pydub
